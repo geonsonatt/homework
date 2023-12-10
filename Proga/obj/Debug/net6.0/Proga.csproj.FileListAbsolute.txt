@@ -1,0 +1,15 @@
+C:\Users\geran\OneDrive\Рабочий стол\Ex1\Proga\obj\Debug\net6.0\Proga.csproj.AssemblyReference.cache
+C:\Users\geran\OneDrive\Рабочий стол\Ex1\Proga\obj\Debug\net6.0\Proga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geran\OneDrive\Рабочий стол\Ex1\Proga\obj\Debug\net6.0\Proga.AssemblyInfoInputs.cache
+C:\Users\geran\OneDrive\Рабочий стол\Ex1\Proga\obj\Debug\net6.0\Proga.AssemblyInfo.cs
+C:\Users\geran\OneDrive\Рабочий стол\Ex1\Proga\obj\Debug\net6.0\Proga.csproj.CoreCompileInputs.cache
+C:\Users\geran\OneDrive\Рабочий стол\Ex1\Proga\bin\Debug\net6.0\Proga.exe
+C:\Users\geran\OneDrive\Рабочий стол\Ex1\Proga\bin\Debug\net6.0\Proga.deps.json
+C:\Users\geran\OneDrive\Рабочий стол\Ex1\Proga\bin\Debug\net6.0\Proga.runtimeconfig.json
+C:\Users\geran\OneDrive\Рабочий стол\Ex1\Proga\bin\Debug\net6.0\Proga.dll
+C:\Users\geran\OneDrive\Рабочий стол\Ex1\Proga\bin\Debug\net6.0\Proga.pdb
+C:\Users\geran\OneDrive\Рабочий стол\Ex1\Proga\obj\Debug\net6.0\Proga.dll
+C:\Users\geran\OneDrive\Рабочий стол\Ex1\Proga\obj\Debug\net6.0\refint\Proga.dll
+C:\Users\geran\OneDrive\Рабочий стол\Ex1\Proga\obj\Debug\net6.0\Proga.pdb
+C:\Users\geran\OneDrive\Рабочий стол\Ex1\Proga\obj\Debug\net6.0\Proga.genruntimeconfig.cache
+C:\Users\geran\OneDrive\Рабочий стол\Ex1\Proga\obj\Debug\net6.0\ref\Proga.dll
