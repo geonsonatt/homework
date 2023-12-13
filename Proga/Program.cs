@@ -1,27 +1,32 @@
-﻿using System;
-using System.IO.Compression;
-using Microsoft.VisualBasic;
-namespace Math
+﻿using System; 
+    namespace Math
     {
         class Program 
         {
             static void Main(string[] args)
             {
-                Console.WriteLine("Ввод числа на отрезке [10,99]:" );
-                int number = Convert.ToInt32(Console.ReadLine());
-                if ( number < 10 || number > 99 )
+                Console.WriteLine("Введите число" );
+                int n1 = Convert.ToInt32(Console.ReadLine());
+                if (n1 % 7 == 0)
                 {
-                Console.WriteLine("ERROR:Выход за пределы отрезка");
+                Console.WriteLine($"{n1} Кратно 7");
                 }
-                else
+                else  
                 {
-                int firstdigit = number / 10;
-                int seconddigit = number % 10; 
-                int maxdigit = firstdigit > seconddigit ? firstdigit : seconddigit;
-                Console.WriteLine(maxdigit);
-                }   
+                Console.WriteLine($"{n1} не кратно 7");
+                }
+                
+                if (n1 % 23 == 0)
+                {
+                Console.WriteLine($"{n1} кратно 23");
+                }
+                else  
+                {
+                Console.WriteLine($"{n1} не кратно 23");
+                }
+                
+                
             }
+            
         }
     }
-/*Добавлен апдейт в виде ошибки в случае выхода за пределы заданного отрезка       
-    
